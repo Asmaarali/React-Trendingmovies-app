@@ -1,2 +1,9 @@
-goto tmdb movies website to get your api
+# goto tmdb movies website to get your api
 VITE_TMDB_API_KEY=
+
+# databse appwrite
+VITE_APPWRITE_PROJECT_ID=
+VITE_APPWRITE_PROJECT_NAME=
+VITE_APPWRITE_ENDPOINT=
+VITE_APPWRITE_DATABASE_ID=
+VITE_APPWRITE_TABLE_ID=
